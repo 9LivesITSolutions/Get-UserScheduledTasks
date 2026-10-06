@@ -140,8 +140,8 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Maintained by **9 Lives IT Solutions**.
+Maintained by **9 Lives IT Solutions** — Healthcare IT & Infrastructure Automation.

@@ -138,8 +138,8 @@ Merci de suivre les [Conventional Commits](https://www.conventionalcommits.org/)
 
 ## Licence
 
-Ce projet est distribué sous licence MIT — voir le fichier [LICENSE](LICENSE) pour le détail.
+Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE).
 
 ---
 
-Maintenu par **9 Lives IT Solutions**.
+Maintenu par **9 Lives IT Solutions** — Informatique de santé & automatisation d'infrastructure.
