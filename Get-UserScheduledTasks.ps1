@@ -35,7 +35,7 @@
 .EXAMPLE
     .\Get-UserScheduledTasks.ps1 -ComputerName srv01,srv02 -ExcludeVendor
 .EXAMPLE
-    .\Get-UserScheduledTasks.ps1 -SearchBase "OU=Servers,DC=cmcap,DC=local"
+    .\Get-UserScheduledTasks.ps1 -SearchBase "OU=Servers,DC=contoso,DC=local"
 #>
 [CmdletBinding()]
 param(
